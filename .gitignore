@@ -1,0 +1,17 @@
+# Student-facing release only — everything else in this folder stays local.
+
+# Ignore everything at the top level...
+/*
+
+# ...except the published materials:
+!/.gitignore
+!/README.md
+!/AI_in_Industry_and_Business_Workshop_Deck.pdf
+
+# The complete source pack
+!/source_pack/
+
+# Course notes: PDFs only (markdown sources stay local)
+!/student_course_notes/
+/student_course_notes/*
+!/student_course_notes/*.pdf
