@@ -25,7 +25,7 @@ No programming or prior AI knowledge is required. **Bring a laptop.**
 | [Case pairs handout](source_pack/04_Case_Pairs_Handout_A4.pdf) | Session 4 | Real Norwegian and international AI cases — one success and one failure per pair. |
 | [TRUST worksheet (A3)](source_pack/04_TRUST_Worksheet_A3.pdf) | Session 4 | The red-team review your team applies to its own proposal. |
 | [Northstar background narrative](source_pack/03_Northstar_Components_Background_and_Problem_Narrative.md) | Worked example | A fictional company and problem description, used for the worked example below. |
-| [Filled canvas — worked example](source_pack/03_Filled_AI_Opportunity_Canvas_Production_Shift_Handover_A3.docx) | After Session 3 | One completed canvas for the Northstar case. |
+| [Filled canvas — worked example](source_pack/03_Filled_AI_Opportunity_Canvas_Production_Shift_Handover_A3.pdf) | After Session 3 | One completed canvas for the Northstar case. |
 | [Filled TRUST review — worked example](source_pack/04_Filled_TRUST_Worksheet_Production_Shift_Handover_A3.pdf) | After Session 4 | One completed TRUST review of the same Northstar proposal. |
 
 ## How to use these materials
